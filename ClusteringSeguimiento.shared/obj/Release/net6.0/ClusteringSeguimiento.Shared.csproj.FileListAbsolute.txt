@@ -1,0 +1,12 @@
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\bin\Release\net6.0\ClusteringSeguimiento.Shared.deps.json
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\bin\Release\net6.0\ClusteringSeguimiento.Shared.dll
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\bin\Release\net6.0\ClusteringSeguimiento.Shared.pdb
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\obj\Release\net6.0\ClusteringSeguimiento.Shared.csproj.AssemblyReference.cache
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\obj\Release\net6.0\ClusteringSeguimiento.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\obj\Release\net6.0\ClusteringSeguimiento.Shared.AssemblyInfoInputs.cache
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\obj\Release\net6.0\ClusteringSeguimiento.Shared.AssemblyInfo.cs
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\obj\Release\net6.0\ClusteringSeguimiento.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\obj\Release\net6.0\ClusteringSeguimiento.Shared.dll
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\obj\Release\net6.0\refint\ClusteringSeguimiento.Shared.dll
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\obj\Release\net6.0\ClusteringSeguimiento.Shared.pdb
+C:\Projects\Clustering y seguimiento de clientes\ClusteringSeguimiento.shared\obj\Release\net6.0\ref\ClusteringSeguimiento.Shared.dll
